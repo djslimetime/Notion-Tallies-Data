@@ -1,14 +1,14 @@
 [
   {
-    "BLOCK": "BLUE",
-    "VAL": 1
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publishedYear": 1960
   },
   {
-    "BLOCK": "YELLOW",
-    "VAL": 2
-  },
-  {
-    "BLOCK": "RED",
-    "VAL": 0.5
-  },
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "publishedYear": 1949
+  }
 ]
