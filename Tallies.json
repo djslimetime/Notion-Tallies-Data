@@ -1,0 +1,14 @@
+[
+  {
+    "BLOCK": "BLUE",
+    "VAL": 1,
+  },
+  {
+    "BLOCK": "YELLOW",
+    "VAL": 2,
+  }
+  {
+    "BLOCK": "RED",
+    "VAL": 0.5,
+  },
+]
