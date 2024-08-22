@@ -1,11 +1,11 @@
 [
   {
     "BLOCK": "BLUE",
-    "VAL": 1
+    "VAL": 2
   },
   {
     "BLOCK": "YELLOW",
-    "VAL": 2.5
+    "VAL": 9.5
   },
   {
     "BLOCK": "RED",
